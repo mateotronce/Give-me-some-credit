@@ -31,7 +31,7 @@ Ejecuta el notebook `Give_me_some_credit.ipynb` para realizar el análisis explo
 - Refinar el preprocesamiento de datos.
 - Implementar validación cruzada para mejorar la generalización.
 - Desplegar el modelo en una API para predicciones en tiempo real.
-- Guardado del modelo:** Uso de `joblib` para almacenar el mejor modelo.
+- Guardado del modelo: Uso de `joblib` para almacenar el mejor modelo.
 
 
 
