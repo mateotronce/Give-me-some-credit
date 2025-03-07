@@ -26,7 +26,6 @@ Ejecuta el notebook `Give_me_some_credit.ipynb` para realizar el análisis explo
 3. **Modelos probados:**
    - Regresión Logística
 4. **Evaluación:** Precisión, AUC-ROC, y F1-score.
-5. **Optimización:** Ajuste de hiperparámetros con GridSearchCV.
 
 ## Mejoras Sugeridas
 - Refinar el preprocesamiento de datos.
