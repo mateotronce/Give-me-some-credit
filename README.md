@@ -12,10 +12,7 @@ Este proyecto analiza el dataset "Give Me Some Credit" de Kaggle, explorando los
 
 ## Requisitos
 - Python 3.x
-- Librerías necesarias:
-  ```bash
-  pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
-  ```
+- Librerías necesarias se encuentran en el archivo requirements.txt
 
 ## Uso
 Ejecuta el notebook `Give_me_some_credit.ipynb` para realizar el análisis exploratorio de datos (EDA) y entrenar modelos predictivos.
